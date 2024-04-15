@@ -8,4 +8,4 @@ Automatically backup folders and files every specified period of time.
 
 ## Download
 
-You can get the latest version [here](https://github.com/FLEX-TLB/Automatic-Backup/releases/latest).
+Get the latest version [here](https://github.com/FLEX-TLB/Automatic-Backup/releases/latest).
