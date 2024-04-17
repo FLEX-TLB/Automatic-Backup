@@ -4,7 +4,8 @@ Automatically backup folders and files every specified period of time.
 
 ## Screenshot
 
-![Screenshot 2024-04-15 015806](https://github.com/FLEX-TLB/Automatic-Backup/assets/111319882/2ff7873a-1b20-40c3-b3e4-59d5e25d31f0)
+![image](https://github.com/FLEX-TLB/Automatic-Backup/assets/111319882/194f1877-b87e-4a74-8ada-89b610633ee5)
+
 
 ## Download
 
