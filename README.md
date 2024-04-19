@@ -14,7 +14,7 @@ Get the latest version [here](https://github.com/FLEX-TLB/Automatic-Backup/relea
 
 ## Build from source
 
-If you want to create your own executable from the source code. Download [python](https://www.python.org/downloads/) and you will nead [yt_dlp](https://github.com/yt-dlp/yt-dlp) for the yt_dlp module.
+If you want to create your own executable from the source code. Download [python](https://www.python.org/downloads/).
 
 
 ## License
