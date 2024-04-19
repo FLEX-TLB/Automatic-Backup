@@ -10,3 +10,13 @@ Automatically backup folders and files every specified period of time.
 ## Download
 
 Get the latest version [here](https://github.com/FLEX-TLB/Automatic-Backup/releases/latest).
+
+
+## Build from source
+
+If you want to create your own executable from the source code. Download [python](https://www.python.org/downloads/) and you will nead [yt_dlp](https://github.com/yt-dlp/yt-dlp) for the yt_dlp module.
+
+
+## License
+
+[MIT](LICENSE) License.
